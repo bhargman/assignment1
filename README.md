@@ -1,16 +1,15 @@
-# CSCI 380-04: Assignment 1 - Due by 11:59 PM, Feb 19th, 2019
+# CSCI 380-01: Assignment 1 - Due by 11:59 PM, Oct 2nd, 2019
 * * * 
 
-	 This assignment is meant to introduce you to git, Android Studio, and Java fundamentals.
-	 Complete each part of the assignment as separate git commits. Any assignment that's completed, 
-	 but uses only one giant commit will have 10% taken off. If you don't already have 
-	 Android Studio and git set up on your computer, follow the instructions here before continuing: 
+	 This assignment is meant to introduce you to git, Android Studio, and Java fundamentals. 
+	 If you don't already have Android Studio and git set up on your computer, 
+	 follow the instructions here before continuing: 
 	 - https://developer.android.com/training/basics/firstapp/
 	 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 	 
 # Part 0 - Reading
 Read the following before attempting this assignment. Make sure to follow the naming convention below in 
-your assignments. You will be deducted 1% for each naming convention violation.
+your assignments.
 + [https://leanpub.com/aprimeronjava/read](https://leanpub.com/aprimeronjava/read)
 + [https://google.github.io/styleguide/javaguide.html#s5-naming](https://google.github.io/styleguide/javaguide.html#s5-naming)
 
